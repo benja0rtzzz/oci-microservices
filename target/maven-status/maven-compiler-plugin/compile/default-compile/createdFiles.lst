@@ -1,0 +1,9 @@
+com/example/oci_microservices/model/Order.class
+com/example/oci_microservices/repository/OrderRepository.class
+com/example/oci_microservices/service/OrderService.class
+com/example/oci_microservices/repository/UserRepository.class
+com/example/oci_microservices/controller/UserController.class
+com/example/oci_microservices/service/UserService.class
+com/example/oci_microservices/model/User.class
+com/example/oci_microservices/controller/OrderController.class
+com/example/oci_microservices/OciMicroservicesApplication.class

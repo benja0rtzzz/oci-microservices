@@ -1,0 +1,9 @@
+/Users/benjaminortiz/Documents/oci-microservices/src/main/java/com/example/oci_microservices/OciMicroservicesApplication.java
+/Users/benjaminortiz/Documents/oci-microservices/src/main/java/com/example/oci_microservices/controller/OrderController.java
+/Users/benjaminortiz/Documents/oci-microservices/src/main/java/com/example/oci_microservices/controller/UserController.java
+/Users/benjaminortiz/Documents/oci-microservices/src/main/java/com/example/oci_microservices/model/Order.java
+/Users/benjaminortiz/Documents/oci-microservices/src/main/java/com/example/oci_microservices/model/User.java
+/Users/benjaminortiz/Documents/oci-microservices/src/main/java/com/example/oci_microservices/repository/OrderRepository.java
+/Users/benjaminortiz/Documents/oci-microservices/src/main/java/com/example/oci_microservices/repository/UserRepository.java
+/Users/benjaminortiz/Documents/oci-microservices/src/main/java/com/example/oci_microservices/service/OrderService.java
+/Users/benjaminortiz/Documents/oci-microservices/src/main/java/com/example/oci_microservices/service/UserService.java
